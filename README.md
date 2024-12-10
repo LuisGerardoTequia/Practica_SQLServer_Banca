@@ -32,14 +32,14 @@ cd Sistema_Bancario_SQLServer
 
 2. Carga los Scripts en este Orden:
 
-01_Create_Database.sql: Crea la base de datos BancoSQL.
-02_Create_Tables.sql: Define las tablas principales (clientes, cuentas, préstamos, etc.).
-03_Insert_Data.sql: Inserta datos iniciales para pruebas.
-04_Advanced_Functionality.sql: Implementa triggers, funciones y procedimientos.
-Prueba Funcionalidades Avanzadas:
-
-3. Ejecuta consultas para validar CTE y Windows Functions.
-Realiza inserciones para activar triggers y verificar su funcionamiento.
+- 01_Create_Database.sql: Crea la base de datos BancoSQL.
+- 02_Create_Tables.sql: Define las tablas principales (clientes, cuentas, préstamos, etc.).
+- 03_Insert_Data.sql: Inserta datos iniciales para pruebas.
+- 04_Advanced_Functionality.sql: Implementa triggers, funciones y procedimientos.
+  
+3.Prueba Funcionalidades Avanzadas:
+- Ejecuta consultas para validar CTE y Windows Functions.
+- Realiza inserciones para activar triggers y verificar su funcionamiento.
 
 🌟 Beneficios del Proyecto
 ---
